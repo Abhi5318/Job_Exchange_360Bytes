@@ -6,7 +6,7 @@ Welcome to Job-Exchange Portal! This is a full-featured job portal web applicati
 Hosted on Render, the Job-Exchange Portal is easily accessible to users for live interaction.
 
 🚀 Live Demo
-Check out the live demo [(https://job-exchange-360bytes.onrender.com/)]
+Check out the live demo https://job-exchange-360bytes.onrender.com
 
 📜 Features
 User Authentication: Secure login and registration for both job seekers and recruiters.
