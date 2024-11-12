@@ -18,7 +18,12 @@ Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
 🛠️ Tech Stack
 Frontend: React.js, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
-Hosting: Render (for backend), GitHub Pages/Render (for frontend)
+
+Hosting: Render (for backend), 
+GitHub Pages/Render (for frontend)
+
 Authentication: JSON Web Tokens (JWT) with secure cookie storage
